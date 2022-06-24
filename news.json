@@ -1,35 +1,35 @@
 
 [
   {
-  
+    "id": 1,
     "title": "Flamengo vence o Atlético-MG",
     "description": "Fora de casa, Flamengo vence o Atlético-MG por 1 a 0 pelo Brasileiro Feminino",
-    "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/artigos/33222/1655773595.jpg",
+    "image": "https://paulobecker.github.io/soccer-news-api/images/1.jpeg",
     "link": "https://www.flamengo.com.br/noticias/futebol-feminino/fora-de-casa--flamengo-vence-o-atletico-mg-por-1-a-0-pelo-brasileiro-feminino"
   
   },
 
  {
-  
+    "id": 2,
     "title": "Sub-20 Vence o LDDC/Rio de Janeiro por 2 a 1",
     "description": "Sub-20 vence o LDDC/Rio de Janeiro por 2 a 1 e está na final da Taça Unifoot Diamante Pró",
-    "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/artigos/33205/1655405416.jpeg",
+    "image": "https://paulobecker.github.io/soccer-news-api/images/2.jpeg",
     "link": "https://www.flamengo.com.br/noticias/futebol-feminino/sub-20-vence-o-lddc-rio-de-janeiro-por-2-a-1-e-esta-na-final-da-taca-unifoot-diamante-pro"
   
   },
   {
-  
+    "id": 3,
     "title": "A 10 do Mengão é Seleção!",
     "description": "Destaque do Mais Querido, Duda vai disputar a Copa América com a Amarelinha em julho",
-    "image": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/artigos/33171/1654602380.jpeg",
+    "image": "https://paulobecker.github.io/soccer-news-api/images/3.jpeg",
     "link": "https://www.flamengo.com.br/noticias/futebol-feminino/a-10-do-mengao-e-selecao-"  
   
   },
   {
-  
+    "id": 4,
     "title": "Brasileiro Feminino: entenda a ausência de público nos jogos do Flamengo na Gávea",
     "description": "Clube segue tentando liberação para receber torcedores no estádio em sua sede social",
-    "image": "https://s2.glbimg.com/fCXd3ayyaSlfIQd_uHJqFvTkisE=/0x0:3500x2333/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/q/y/FfkFdZQYuaZJuWeXcOIQ/52138545723-26bfc37556-o.jpg",
+    "image": "https://paulobecker.github.io/soccer-news-api/images/4.jpeg",
     "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2022/06/21/brasileiro-feminino-entenda-a-ausencia-de-publico-nos-jogos-do-flamengo-na-gavea.ghtml"  
   
   }
